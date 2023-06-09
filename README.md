@@ -30,6 +30,10 @@
 Este projeto foi desenvolvido como um exercício simples para praticar conceitos de programação.
 O IMC é uma medida de saúde amplamente conhecida, mas é importante lembrar que é apenas uma indicação geral e não leva em consideração outros fatores relevantes para a saúde individual. Sempre consulte um profissional de saúde qualificado para obter avaliações mais precisas e orientações adequadas.
  
+ <br>
+ 
+ O projeto está disponível em:  <strong><a href='https://eduardonunespp.github.io/projeto-calculadora/index.html'>project-imc</a></strong> 
+🚀
+ 
 </div>
 
-<a href='https://eduardonunespp.github.io/projeto-calculadora/index.html'>Calculadora</a>
