@@ -1,4 +1,3 @@
-# projeto-calculadora
 
 <div>
  
@@ -24,7 +23,7 @@
  
  <br>
  
- <h1>Como usar<h1>
+ <h1>Como usar</h1>
   
  - Clone este repositório para sua máquina local ou faça o download do código-fonte.
  - Inicie o projeto manualmente ou com live server :)
