@@ -1,4 +1,10 @@
 
+<h1></h1>
+
+![WhatsApp Image 2023-06-18 at 09 26 33](https://github.com/eduardonunespp/projeto-calculadora/assets/100363170/26f2038b-7e4e-44d2-aa40-a19ab02854fb)
+
+<h1></h1>
+
 <div>
  
  <h1>Projeto de Calculadora em HTML, CSS e JavaScript</h1>
