@@ -12,7 +12,7 @@
  
 Este é um projeto de exemplo de uma calculadora desenvolvida utilizando HTML, CSS e JavaScript. A calculadora permite realizar operações matemáticas simples e exibe os resultados em tempo real.
  
- <h2>Techs Ultilizadas:</h2>
+ <h2>Techs Utilizadas:</h2>
  
   
  <div>
